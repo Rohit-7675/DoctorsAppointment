@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doctors Appointment</string>
+    <string name="doctor_name">Docator Name</string>
+    <string name="doctor_email">Email Address</string>
+    <string name="doctor_speciality">Speciality</string>
+    <string name="doctor_address">Address</string>
+    <string name="doctor_status">Doctor Status</string>
+    <string name="space">" "</string>
+</resources>
